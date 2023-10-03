@@ -115,8 +115,8 @@ RESPONSIVE WEBSITE CODE USING MEDIA QUERY */
     .image img{
         align-items: center;
         justify-content: center;
-        margin-left:27vw;
-        width: 200px;
+        margin-left:33vw;
+        width: 30vw;
         border-radius:10px;
     }
     .image img:hover{
