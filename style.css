@@ -116,7 +116,6 @@ RESPONSIVE WEBSITE CODE USING MEDIA QUERY */
         align-items: center;
         justify-content: center;
         margin-left:27vw;
-        border-radius: 10PX;
         width: 300px;
     }
     .image img:hover{
